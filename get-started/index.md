@@ -1,12 +1,12 @@
 ---
-title: Почати грати
+title: Передмова
 description: ххх
 
 prev: false
 
 next:
  text: 'Реєстрація'
- link: '/get-started/sign-up' 
+ link: './sign-up' 
 ---
 
 # Почати грати

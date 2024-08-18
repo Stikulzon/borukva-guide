@@ -17,7 +17,8 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'Передмова', link: './get-started/index' },
-          { text: 'Реєстрація', link: './get-started/sign-up' }
+          { text: 'Реєстрація', link: './get-started/sign-up' },
+          { text: 'Правила', link: './get-started/rules' },
         ]
       }
     ],

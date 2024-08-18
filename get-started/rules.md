@@ -7,8 +7,8 @@ prev:
  link: '/get-started/sign-up'
 
 next:
- text: 'Щось інше'
- link: '/get-started/index'
+ text: 'Лаунчер & Моди'
+ link: '/get-started/modpack'
 ---
 
 # Основні правила

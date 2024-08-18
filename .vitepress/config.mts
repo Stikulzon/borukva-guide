@@ -16,9 +16,10 @@ export default defineConfig({
         text: 'Почати грати',
         collapsed: true,
         items: [
-          { text: 'Передмова', link: './get-started/index' },
+          { text: 'Передмова', link: './get-started/index' }, // Чомусь не працює
           { text: 'Реєстрація', link: './get-started/sign-up' },
           { text: 'Правила', link: './get-started/rules' },
+          { text: 'Лаунчер & Моди', link: './get-started/modpack' },
         ]
       }
     ],

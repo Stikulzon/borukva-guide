@@ -1,12 +1,12 @@
 import {
   useMediaQuery
-} from "./chunk-SG6GKOBP.js";
+} from "./chunk-I2WHEIFF.js";
 import {
   computed,
   ref,
   shallowRef,
   watch
-} from "./chunk-X4LWN4H6.js";
+} from "./chunk-45KCXATN.js";
 
 // node_modules/vitepress/dist/client/theme-default/index.js
 import "C:/Users/kosty/Desktop/Borukva/guide/borukva-guide/node_modules/vitepress/dist/client/theme-default/styles/fonts.css";

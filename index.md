@@ -4,22 +4,29 @@ layout: home
 
 hero:
   name: "Borukva Guide"
-  text: "Гайд для серверу Боруква"
-  tagline: My great project tagline
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+  text: "Великий посібник Борукви"
+  tagline: Навігація для новеньких та олденьких
+  # image:
+  #   src: /images/logo.png
+  #   alt: Borukva Guide
+  # actions:
+  #   - theme: brand
+  #     text: Markdown Examples
+  #     link: /markdown-examples
+  #   - theme: alt
+  #     text: API Examples
+  #     link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Як почати грати
+    icon: 📚
+    details: Хочете почати грати на нашому чудовому сервері? Ці гайди Вам в цьому допоможуть.
+    link: /get-started/
+    linkText: Почати грати
+  - title: Гайди
+    icon: 📚
+    details: Вже давно граєте на сервері, але не знаєте як працює конкретна механіка? Тут знаходяться гайди по всім механікам сервера.
+    link:
+    linkText: Читати далі
 ---
 

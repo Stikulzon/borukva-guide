@@ -6,9 +6,11 @@ export default defineConfig({
   description: "Гайд для серверу Боруква",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: '/images/logo.png',
+
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Додому', link: '/' },
+      { text: 'Гайд для новачків', link: '/get-started/index' },
     ],
 
     sidebar: [

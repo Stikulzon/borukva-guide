@@ -7,8 +7,8 @@ prev:
  link: '/get-started/rules'
 
 next:
- text: 'Лаунчер & Моди'
- link: '/get-started/modpack'
+ text: 'Що робити далі?'
+ link: '/get-started/joining'
 ---
 
 > Гайд розрахований на користувачів Windows, адже користувачі Linux знають як все це робити самотужки.

@@ -20,6 +20,8 @@ export default defineConfig({
           { text: 'Реєстрація', link: './sign-up' },
           { text: 'Правила', link: './rules' },
           { text: 'Лаунчер & Моди', link: './modpack' },
+          { text: 'Що робити далі?', link: './joining' },
+          { text: 'Офіційні канали сервера', link: './channels' },
         ]
       }
     ],

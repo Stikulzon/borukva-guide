@@ -13,7 +13,7 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Почати грати',
+        text: 'Початок гри',
         collapsed: true,
         items: [
           { text: 'Передмова', link: './index' },
@@ -22,12 +22,16 @@ export default defineConfig({
           { text: 'Лаунчер & Моди', link: './modpack' },
           { text: 'Що робити далі?', link: './joining' },
           { text: 'Офіційні канали сервера', link: './channels' },
+          { text: 'Команди Борукви', link: './commands' },
+          { text: 'Як отримати допомогу від адміністрації?', link: './admin-ticket' },
+          { text: 'Економіка', link: './economics' },
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/Stikulzon/borukva-guide' }
+      { icon: 'github', link: 'https://github.com/Stikulzon/borukva-guide' },
+      // https://vitepress.dev/reference/default-theme-config#sociallinks
     ]
   }
 })

@@ -8,7 +8,7 @@ prev:
 
 next:
  text: 'Об`єднання гравців'
- link: '/get-started/economics'
+ link: '/get-started/player-groups'
 ---
 
 <!--

@@ -27,6 +27,8 @@ export default defineConfig({
           { text: 'Команди Борукви', link: './commands' },
           { text: 'Як отримати допомогу від адміністрації?', link: './admin-ticket' },
           { text: 'Економіка', link: './economics' },
+          { text: 'Об`єднання гравців', link: './player-groups' },
+          { text: 'Івенти', link: './events' },
         ]
       }
     ],

@@ -1,4 +1,4 @@
-<!--
+<!-- TODO:
 Тут знаходиться список речей які треба зробити в гайді
 використовуйте це як місце для записів що необхідно змінити та як технічну справку
 
@@ -39,5 +39,25 @@ get-started:
 
 mechanics: (або будь-яка інша назва)
     Список сторінок за появою:
+        /introduction
+            1. Написати пару слів про наявність нових/змінених механік
+        /fabric
+        /small-vanila-changes
+        /world-generation
+        /countries
+        /ledger
+        /vilagers
+            Написати про зміни жидів (книжки, shift+right click і тп)
+        /artefacts
+        /rails
+        /brewery
+        /fishing
+        /farming
+        /food
+        /mebels
+        /canvas
+        /radio
+        
+        
 
 -->

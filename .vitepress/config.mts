@@ -16,7 +16,7 @@ export default defineConfig({
     sidebar: [
       {
         text: 'Початок гри',
-        collapsed: true,
+        collapsed: false,
         items: [
           { text: 'Передмова', link: './index' },
           { text: 'Реєстрація', link: './sign-up' },

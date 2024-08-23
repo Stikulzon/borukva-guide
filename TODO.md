@@ -53,7 +53,11 @@ mechanics: (або будь-яка інша назва)
         /brewery
         /fishing
         /farming
+            Дописати текст(дуже сире)
+            Вставити картинки
         /food
+            Дописати текст
+            Вставити фоточкі
         /mebels
         /canvas
         /radio

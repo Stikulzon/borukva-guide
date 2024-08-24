@@ -7,7 +7,7 @@ hero:
   text: "Великий посібник Борукви"
   tagline: Навігація для новеньких та олденьких
   # image:
-  #   src: /images/logo.png
+  #   src: /images/logo.avif
   #   alt: Borukva Guide
   # actions:
   #   - theme: brand

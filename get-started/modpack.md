@@ -31,7 +31,7 @@ Java: https://adoptium.net/temurin/releases/?version=21&os=windows
 Ми рекомендуємо встановлювати саме сторонній лаунчер замість використання стандартного.
 Два найкращих лаунчера, на данний момент, це:
 - [Prism Launcher](https://prismlauncher.org/download/?from=button) *(ліцензія)*
-- Shattered Prism *(піратка)*
+- [Prism Launcher Cracked](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/) *(піратка)*
 <!-- Поставити посилання на скачування -->
 
 Надалі гайд буде демонструвати процес встановлення на прикладі **Shattered Prism**

@@ -3,8 +3,8 @@ title: Івенти
 description: xxx
 
 prev:
- text: 'Об`єднання гравців'
- link: '/get-started/player-groups'
+ text: 'Економіка'
+ link: '/get-started/economics'
 
 next: false
 ---

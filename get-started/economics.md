@@ -7,8 +7,8 @@ prev:
  link: '/get-started/admin-ticket'
 
 next:
- text: 'Об`єднання гравців'
- link: '/get-started/player-groups'
+ text: 'Івенти'
+ link: '/get-started/events'
 ---
 
 # 💰 Економіка

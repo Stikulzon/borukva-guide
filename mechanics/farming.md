@@ -7,8 +7,8 @@ prev:
  link: /mechanics/fishing/
 
 next:
- text: Їжа Борукви 
- link: /mechanics/food/
+ text: Нові рослини 
+ link: /mechanics/new-plants/
 ---
 
 # Що нового?

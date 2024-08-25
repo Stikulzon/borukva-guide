@@ -1,3 +1,17 @@
+---
+title: Артефакти 
+description: xxx
+
+prev:
+ text: Вступ
+ link: /mechanics/index/
+
+next:
+ text: Риболовля
+ link: /mechanics/fishing/
+
+
+---
 # 🪃 Артефакти
 
 ## Мечі, броня та інструменти

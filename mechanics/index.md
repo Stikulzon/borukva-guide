@@ -6,7 +6,7 @@ next:
 ---
 
 <script setup>
-import GuideComponent from '/GuideComponent.vue'
+import GuideComponent from '/mechanics/vue/GuideComponent.vue'
 </script>
 
 <GuideComponent />

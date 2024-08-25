@@ -63,7 +63,6 @@ const sections = ref([
   text-align: center;
   font-size: 3rem;
   margin-bottom: 1.5rem;
-  animation: fadeInDown 1s ease-out;
 }
 
 .guide-subtitle {
@@ -71,12 +70,10 @@ const sections = ref([
   text-align: center;
   font-size: 1.3rem;
   margin-bottom: 3rem;
-  animation: fadeInUp 1s ease-out 0.5s both;
 }
 
 .guide-section {
   margin-bottom: 3rem;
-  animation: fadeIn 1s ease-out 1s both;
 }
 
 .guide-section-title {
@@ -130,34 +127,4 @@ const sections = ref([
   font-weight: bold;
 }
 
-@keyframes fadeInDown {
-  from {
-    opacity: 0;
-    transform: translateY(-20px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-@keyframes fadeInUp {
-  from {
-    opacity: 0;
-    transform: translateY(20px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-@keyframes fadeIn {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
 </style>

@@ -27,13 +27,13 @@ export default defineConfig({
           { text: 'Команди Борукви', link: '/get-started/commands' },
           { text: 'Як отримати допомогу від адміністрації?', link: '/get-started/admin-ticket' },
           { text: 'Економіка', link: '/get-started/economics' },
-          { text: 'Об`єднання гравців', link: '/get-started/player-groups' },
+          // { text: 'Об`єднання гравців', link: '/get-started/player-groups' },
           { text: 'Івенти', link: '/get-started/events' },
         ]
       },
       {
         text: 'Механіки',
-        collapsed: true,
+        collapsed: false,
         items: [
           { text: 'Вступ', link: '/mechanics/index' },
           { text: 'Фермерство', link: '/mechanics/farming'},

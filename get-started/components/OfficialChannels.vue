@@ -13,28 +13,28 @@ const channels = ref<Channel[]>([
   {
     title: 'Цебулевий Майнкрафт 1.21+ #УкрТг ✙',
     description: 'Основний канал про сервер, головні технічні новини та оновлення.',
-    image: '/images/get-started/channels/tsebuleviy_minecraft.png',
+    image: '/images/get-started/channels/tsebuleviy_minecraft.avif',
     link: 'https://t.me/borukva_minecraft',
     type: 'channel'
   },
   {
     title: 'Новин\'яр Цебулевий',
     description: 'Анонси серйозних івентів, оновлень геймплею та оперативні новини по стану серверу.',
-    image: '/images/get-started/channels/novyniar.png',
+    image: '/images/get-started/channels/novyniar.avif',
     link: 'https://t.me/borukva_minecraft_news',
     type: 'channel'
   },
   {
     title: 'Труха ⚡️ БорукVа',
     description: 'Тут постяться РП новини держав сервера та анонси івентів.',
-    image: '/images/get-started/channels/truha_borukva.png',
+    image: '/images/get-started/channels/truha_borukva.avif',
     link: 'https://t.me/tryxaborukva',
     type: 'channel'
   },
   {
     title: 'Цебулева сральня [Майнкрафт меми]',
     description: 'Приколи, шіпост, майкнрафт та серверні меми.',
-    image: '/images/get-started/channels/spalna.png',
+    image: '/images/get-started/channels/spalna.avif',
     link: 'https://t.me/borykva_minecraft',
     type: 'channel'
   }
@@ -44,14 +44,14 @@ const chats = ref<Channel[]>([
   {
     title: 'Боруква Майн Хаб 1.21+',
     description: 'Загальний чат сервера, є гілка для допомоги новачкам (не бійтеся туди писати), РП-гілка, Мем-гілка, і багато іншого.',
-    image: '/images/get-started/channels/chat.png',
+    image: '/images/get-started/channels/chat.avif',
     link: 'https://t.me/+q5Z5JHc71AwyM2My',
     type: 'chat'
   },
   {
     title: 'Чат п\'ятого сезону',
     description: 'Чат для гравців 5 сезону, без офтопу, тільки для гравців які грають.',
-    image: '/images/get-started/channels/chat_5_season.png',
+    image: '/images/get-started/channels/chat_5_season.avif',
     link: 'https://t.me/+JDFV2AhGvbA4NGMy',
     type: 'chat'
   },
@@ -154,8 +154,8 @@ h2 {
 }
 
 .image-container {
-  width: 76px;
-  height: 76px;
+  width: 100px;
+  height: 100px;
   flex-shrink: 0;
   margin-right: 1rem;
 }
@@ -164,7 +164,7 @@ h2 {
   width: 100%;
   height: 100%;
   object-fit: contain;
-  image-rendering: pixelated;
+  /*image-rendering: pixelated;*/
   border-radius: 8px;
 }
 

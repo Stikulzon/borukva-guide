@@ -3,8 +3,8 @@ title: Їжа борукви
 description: xxx
 
 prev:
- text: Фермерство
- link: /mechanics/farming/
+ text: Нові рослини
+ link: /mechanics/new-plants/
 
 next:
  text: Меблі
@@ -14,6 +14,8 @@ next:
 ---
 
 # Їжа борукви
+<<<<<<< master
+=======
 > Тут буде все про овочі, кущі, дерева і рецепти їжі.
 
 ## Овочі
@@ -73,6 +75,7 @@ next:
 Крафт ножа:
 
 <img src='' alt='ніж'></img>
+>>>>>>> master
 
 Всі доступні крафти за допомогою дошки:
         

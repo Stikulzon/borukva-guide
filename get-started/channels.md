@@ -10,7 +10,7 @@ next:
 ---
 
 <script setup>
-import OfficialChannels from './components/OfficialChannels.vue'
+import OfficialChannels from '../components/OfficialChannels.vue'
 </script>
 
 <!-- # Офіційні канали сервера -->

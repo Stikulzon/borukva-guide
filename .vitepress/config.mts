@@ -7,7 +7,7 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/images/logo.avif',
-    base: '/',
+    base: '/borukva-guide/',
 
     nav: [
       { text: 'Додому', link: '/' },

@@ -25,17 +25,25 @@
 >*Якщо це не працює, скрафтіть нове полотно і спробуйте знову*
 
 ### Заливка та повне очищення
-Для заливки полотна одним кольором, об'єднайте його з барвником. Для повної очистки, з відром води
-<center><img src="/images/canvas/canvas-fill.png" alt="Полотно+барвник"></img>
-<img src="/images/canvas/canvas-with-water.png.png" alt="Полотно+вода"></img></center>
+Для заливки полотна одним кольором, об'єднайте його з барвником.
+<center><img src="/images/canvas/canvas-fill.png" alt="Полотно+барвник"></img></center>
+
+> *При крафті барвник витрачається*
+
+Для повної очистки, з відром води
+<center><img src="/images/canvas/canvas-with-water.png" alt="Полотно+вода"></img></center>
+
+> *Витрачається лише вода з відра*
 
 ### Прозорий фон
 Прозорий фон можна отримати об'єднавши полотно з ножицями
+<center><img src="/images/canvas/canvas-shears.png" alt="Полотно+ножиці"></img></center>
+
 >*Після цього малювати на ньому не можна*
 
 Щоб повернути фон, додайте папір
-<center><img src="/images/canvas/canvas-shears.png" alt="Полотно+ножиці"></img></center>
-<center><img src="/images/canvas/canvas-with-paper.png.png" alt="Полотно+папір"></img></center>
+
+<center><img src="/images/canvas/canvas-with-paper.png" alt="Полотно+папір"></img></center>
 
 ### Блокування та яскравість
 Заблокувати полотно можна воском, а підвищити яскравість (*краще видно вночі*) сяйним чорнильним мішком

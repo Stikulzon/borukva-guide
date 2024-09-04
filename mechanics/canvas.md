@@ -3,49 +3,57 @@
 >Завжди хотіли малювати картини, але на мап-арти не було ресурсів? Тоді цей гайд саме для вас
 
 Полотно - це новий предмет який дозволяє вам малювати картини. Скрафтивши та повісивши його на стіну можна приступати до роботи
-<center><img src="" alt="Полотно"></img></center>
+<center><img src="#" alt="Полотно"></img></center>
 
 >Для малювання використовуються барвники, а саме полотно має розмір 16x16 пікселів.
+
 ## Основні механіки
+
 Візьміть барвник (*вони не витрачаються*) у руку та клікніть правою кнопкою миші по полотну, ось і ваш перший піксель.  
 Далі ви можете використати вугілля та кісткове борошно для того щоб затемнити або висвітлити піксель відповідно.
 Прибрати піксель можна за допомогою губки.
-<center><img src="" alt="Палітра"></img></center>
+<center><img src="#" alt="Палітра"></img></center>
 
 ### Щітка
-<center><img src="" alt="3на3 за допомогою щітки"></img></center>
+
+<center><img src="#" alt="3на3 за допомогою щітки"></img></center>
 
 ## Додаткові механіки
+
 Наступні механіки виконуються в сітці крафту при об'єднанні полотна з потрібним предметом
 
 ### Дублювання
-<center><img src="/images/canvas/canvas-duplication.png" alt="Полотно+полотно"></img></center>
+
+<center><img src="/images/mechanics/canvas/canvas-duplication.png" alt="Полотно+полотно"></img></center>
 
 Як і мапи, готове полотно можна продублювати об'єднавши його з пустим
 >*Якщо це не працює, скрафтіть нове полотно і спробуйте знову*
 
 ### Заливка та повне очищення
+
 Для заливки полотна одним кольором, об'єднайте його з барвником.
-<center><img src="/images/canvas/canvas-fill.png" alt="Полотно+барвник"></img></center>
+<center><img src="/images/mechanics/canvas/canvas-fill.png" alt="Полотно+барвник"></img></center>
 
 > *При крафті барвник витрачається*
 
 Для повної очистки, з відром води
-<center><img src="/images/canvas/canvas-with-water.png" alt="Полотно+вода"></img></center>
+<center><img src="/images/mechanics/canvas/canvas-with-water.png" alt="Полотно+вода"></img></center>
 
 > *Витрачається лише вода з відра*
 
 ### Прозорий фон
+
 Прозорий фон можна отримати об'єднавши полотно з ножицями
-<center><img src="/images/canvas/canvas-shears.png" alt="Полотно+ножиці"></img></center>
+<center><img src="/images/mechanics/canvas/canvas-shears.png" alt="Полотно+ножиці"></img></center>
 
 >*Після цього малювати на ньому не можна*
 
 Щоб повернути фон, додайте папір
 
-<center><img src="/images/canvas/canvas-with-paper.png" alt="Полотно+папір"></img></center>
+<center><img src="/images/mechanics/canvas/canvas-with-paper.png" alt="Полотно+папір"></img></center>
 
 ### Блокування та яскравість
+
 Заблокувати полотно можна воском, а підвищити яскравість (*краще видно вночі*) сяйним чорнильним мішком
-<center><img src="/images/canvas/canvas-brigtness.png" alt="Полотно+мішечок"></img>
-<img src="/images/canvas/canvas-closed.png" alt="Полотно+віск"></img></center>
+<center><img src="/images/mechanics/canvas/canvas-brigtness.png" alt="Полотно+мішечок"></img>
+<img src="/images/mechanics/canvas/canvas-closed.png" alt="Полотно+віск"></img></center>

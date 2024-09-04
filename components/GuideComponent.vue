@@ -117,10 +117,6 @@ const sections = ref([
   transition: all 0.3s ease;
 }
 
-.guide-item:hover img {
-  transform: rotate(360deg);
-}
-
 .guide-item span {
   color: var(--vp-c-text-1);
   font-size: 1rem;

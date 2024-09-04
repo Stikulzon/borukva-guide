@@ -7,7 +7,6 @@
 *.log
 /.vscode/
 .vitepress/cache
-dist
 dist-ssr
 explorations
 node_modules

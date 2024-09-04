@@ -15,15 +15,15 @@
 ## Нові види рейок
 Для зручності побудови залізниць на сервер були додані декілька нових видів рейок.
 
-### Стикова рейка <!--Junction rail-->
+### Глухий перетин <!--Junction rail-->
 
 <center><img src="/images/mechanics/rails/Junction-rail.png" alt="Junction rail"></center>
 
-### Рейка типу "Y" <!--Wye rail-->
+### Поворотний трикутник <!--Wye rail-->
 
 <center><img src="/images/mechanics/rails/Wye-rail.png" alt="Wye-rail"></center>
 
-### Стрілочна рейка <!--Turnout rail-->
+### Стрілочний перевід <!--Turnout rail-->
 
 <center><img src="/images/mechanics/rails/Turnout-rail.png" alt="Turnout-rail"></center>
 
@@ -32,6 +32,6 @@
 Трохи прискорює вагонетку та направляє її тільки в один бік
 <center><img src="/images/mechanics/rails/Control-rail.png" alt="Control-rail"></center>
 
-### Засувна рейка <!--Gate rail-->
+### Рейка з хвірткою <!--Gate rail-->
 
 <center><img src="/images/mechanics/rails/Gate-rail.png" alt="Gate-rail"></center>

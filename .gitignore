@@ -1,7 +1,6 @@
 !**/glob-import/dir/node_modules
 .DS_Store
 .idea
-/dist/
 .pnpm-store
 *.cpuprofile
 *.local
@@ -15,3 +14,4 @@ playground-temp
 temp
 TODOs.md
 .eslintcache
+/.vitepress/dist/

@@ -19,7 +19,7 @@ concurrency:
   cancel-in-progress: true
 jobs:
   # Single deploy job since we're just deploying
-  deploy:
+  build:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -42,6 +42,13 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: './.vitepress/dist'
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-22.04
+    needs: build
+    steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4

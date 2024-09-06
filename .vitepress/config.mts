@@ -2,12 +2,12 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/borukva-guide/',
   title: "Borukva Guide",
   description: "Гайд для серверу Боруква",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/images/logo.avif',
-    base: '/borukva-guide/',
 
     nav: [
       { text: 'Додому', link: '/' },

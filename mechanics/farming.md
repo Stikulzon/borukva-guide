@@ -61,4 +61,4 @@ next:
 
 Крафтиться він ось так:
 <img src="/images/mechanics/farming/sparyer_craft.png" height=50% width=50% alt="sprayer_craft"></img>
-<!--фото і можна в принципі картинку як він працює.--> 
+<!--фото і можна в принципі картинку як він працює.-->

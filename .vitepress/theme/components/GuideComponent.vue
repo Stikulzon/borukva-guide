@@ -1,31 +1,6 @@
 <script setup>
-import { ref } from 'vue'
+import {sectionList} from "../../data/general";
 
-const sections = ref([
-  {
-    title: 'Додано',
-    items: [
-      { name: 'Нові рейки', image: '/images/guide/placeholder.webp' },
-      { name: 'Артефакти', image: '/images/guide/placeholder.webp' },
-      { name: 'Радіо', image: '/images/guide/placeholder.webp' },
-      { name: 'Полотно для малювання', image: '/images/guide/placeholder.webp' },
-      { name: 'Декілька видів дерев', image: '/images/guide/placeholder.webp' },
-      { name: 'Меблі', image: '/images/guide/placeholder.webp' },
-      { name: 'Куховарство', image: '/images/guide/placeholder.webp' },
-    ]
-  },
-  {
-    title: 'Змінено',
-    items: [
-      { name: 'Генерацію світу', image: '/images/guide/placeholder.webp' },
-      { name: 'Фермерство', image: '/images/guide/placeholder.webp' },
-      { name: 'Вагонетки', image: '/images/guide/placeholder.webp' },
-      { name: 'Торгівлю з жителями', image: '/images/guide/placeholder.webp' },
-      { name: 'Риболовлю', image: '/images/guide/placeholder.webp' },
-      { name: 'І ще багато іншого!', image: '/images/guide/placeholder.webp' },
-    ]
-  }
-])
 </script>
 
 <template>
@@ -33,7 +8,7 @@ const sections = ref([
     <h1 class="guide-title">Гайди серверу</h1>
     <p class="guide-subtitle">Ці статті допоможуть вам ознайомитись з кастомним контентом серверу.</p>
     
-    <div v-for="(section, index) in sections" :key="index" class="guide-section">
+    <div v-for="(section, index) in sectionList" :key="index" class="guide-section">
       <h2 class="guide-section-title">{{ section.title }}</h2>
       <div class="guide-grid">
         <div v-for="(item, itemIndex) in section.items" :key="itemIndex" class="guide-item">

@@ -10,7 +10,7 @@ next:
 ---
 
 <script setup>
-import OfficialChannels from '../components/OfficialChannels.vue'
+import OfficialChannels from '../.vitepress/theme/components/OfficialChannels.vue'
 </script>
 
 <!-- # Офіційні канали сервера -->

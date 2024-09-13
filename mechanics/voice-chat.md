@@ -20,13 +20,15 @@
 ### Іконки
 
 > Гарячі клавіші налаштовуються в налаштуваннях майнкрафту або моду
-
-<img src="/images/mechanics/voice-chat/voice-chat-talking.png" alt="talking"></img> Ви говорите  
-<img src="/images/mechanics/voice-chat/voice-chat-whispering.png" alt="whispering"></img> Ви шепочете  
-<img src="/images/mechanics/voice-chat/voice-chat-player-talking.png" alt="player-talking"></img> Гравець говорить  
-<img src="/images/mechanics/voice-chat/voice-chat-microphone-muted.png" alt="microphone-muted"></img> Мікрофон вимкнено  
-<img src="/images/mechanics/voice-chat/voice-chat-disabled.png" alt="disabled"></img> Голосовий чат вимкнено  
-<img src="/images/mechanics/voice-chat/voice-chat-not-connected.png" alt="not-connected"></img> Голосовий чат відсутній  
+> 
+| Іконка | Значення |
+| -- | -- |
+| <img src="/images/mechanics/voice-chat/voice-chat-talking.png" alt="talking"></img> | Ви говорите  |
+| <img src="/images/mechanics/voice-chat/voice-chat-whispering.png" alt="whispering"></img> | Ви шепочете |
+| <img src="/images/mechanics/voice-chat/voice-chat-player-talking.png" alt="player-talking"></img> | Гравець говорить |
+| <img src="/images/mechanics/voice-chat/voice-chat-microphone-muted.png" alt="microphone-muted"></img> | Мікрофон вимкнено |
+| <img src="/images/mechanics/voice-chat/voice-chat-disabled.png" alt="disabled"></img> | Голосовий чат вимкнено |
+| <img src="/images/mechanics/voice-chat/voice-chat-not-connected.png" alt="not-connected"></img> | Помилка підключення |
 
 ### GUI
 

@@ -6,7 +6,7 @@ next:
 ---
 
 <script setup>
-import GuideComponent from '../components/GuideComponent.vue'
+import GuideComponent from '../.vitepress/theme/components/GuideComponent.vue'
 </script>
 
 <!-- # Офіційні канали сервера -->

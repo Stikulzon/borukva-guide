@@ -33,25 +33,25 @@
 ### GUI
 
 <center>
-<img src="/images/mechanics/voice-chat/voice-chat-main-gui.png" alt="main-gui"></img>
+<img src="/public/images/mechanics/voice-chat/voice-chat-main-gui.png" alt="main-gui"></img>
 
 Основний інтерфейс
 </center>
 
 <center>
-<img src="/images/mechanics/voice-chat/voice-chat-players-volume-gui.png" alt="players-volume"></img>
+<img src="/public/images/mechanics/voice-chat/voice-chat-players-volume-gui.png" alt="players-volume"></img>
 
 Налаштування гучності гравців
 </center>
 
 <center>
-<img src="/images/mechanics/voice-chat/voice-chat-settings-gui.png" alt="settings-gui"></img>
+<img src="/public/images/mechanics/voice-chat/voice-chat-settings-gui.png" alt="settings-gui"></img>
 
 Налаштування
 </center>
 
 <center>
-<img src="/images/mechanics/voice-chat/voice-chat-group-gui.png" alt="group-gui"></img>
+<img src="/public/images/mechanics/voice-chat/voice-chat-group-gui.png" alt="group-gui"></img>
 
 Інтерфейс групи
 </center>

@@ -40,7 +40,7 @@ next:
 
 <center>Ось схема, щоб було легше зрозуміти:</center>
 
-<center> <img src="/images/mechanics/farming//minerals.png" width=70% height=70%></img> </center>
+<center> <img src="/public/images/mechanics/farming//minerals.png" width=70% height=70%></img> </center>
 
 ## Аналізатор
 > ААА, В МЕНЕ ПШЕНИЦЯ НЕ РОСТЕ. ЯК ПОДИВИТИСЬ ЦЮ КИСЛОТНІСТЬ??

@@ -137,3 +137,23 @@
     --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
 
+.antialiasing-off { 
+    image-rendering: optimizeSpeed;             /* STOP SMOOTHING, GIVE ME SPEED  */
+    image-rendering: -moz-crisp-edges;          /* Firefox                        */
+    image-rendering: -o-crisp-edges;            /* Opera                          */
+    image-rendering: -webkit-optimize-contrast; /* Chrome (and eventually Safari) */
+    image-rendering: pixelated;                 /* Universal support since 2021   */
+    image-rendering: optimize-contrast;         /* CSS3 Proposed                  */
+    -ms-interpolation-mode: nearest-neighbor;   /* IE8+                           */
+}
+.div-flex{
+    display: flex;
+}
+.img-mehanics-plants-block{
+    padding: 5px;
+    width: 80px;
+}
+.img-mehanics-plants-items{
+    width: 32px;
+    height: 32px;
+}

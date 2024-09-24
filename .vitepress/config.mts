@@ -43,6 +43,7 @@ export default defineConfig({
           { text: 'Вступ', link: '/mechanics/index' },
           { text: 'Голосовий чат', link: '/mechanics/voice-chat'},
           { text: 'Онлайн мапа сервера', link: '/mechanics/dynmap'},
+          { text: 'Артефакти', link: '/mechanics/artefacts'},
           { text: 'Кастомні крафти', link: '/mechanics/custom-crafts'},
           //{ text: 'Налаштуй сою стійку для броні', link: '/mechanics/armorstand-editor'},
           //{ text: 'Броварництво', link: '/mechanics/brewery'},

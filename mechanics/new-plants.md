@@ -9,55 +9,74 @@ prev:
 next:
  text: Нова їжа
  link: /mechanics/food/
-
-
 ---
 
-# Нові рослини?
+# Нові рослини
 
->Вам що, старих не вистачало?  
+>Сам ти овоч  
 
-Якщо ваша відповідь "так" то далі ви зможете прочитати про усі нові види
+Огірки, помідори та багато інших нових рослин про які ви можете прочитати нижче
 
 ## Овочі
 
 Найбільша категорія з доданих, включає в себе:
 
-- Помідор
-- Капуста
-- Перець чилі
-- Кукурудза
-- Огірок
-- Салат
-- Цибуля(борукви)
+| Назва | Вигляд | Насіння | Де знайти |
+| -- | :--: | :--: | :-- |
+| Помідор | <img class="antialiasing-off img-mehanics-plants-items" src="/public/images/mechanics/new-plants/tomato.png" alt="Томат"> | <img class="antialiasing-off img-mehanics-plants-items" src="/public/images/mechanics/new-plants/tomato_seeds.png" alt="Насіння томату"> | <ul> <li>Підозрілий пісок/гравій в океані</li><li>Аванпост розбійників</li><li>Руїни стежки</li> </ul> |
+| Капуста | <img class="antialiasing-off img-mehanics-plants-items" src="/public/images/mechanics/new-plants/cabbage.png" alt="Капуста"> | <img class="antialiasing-off img-mehanics-plants-items" src="/public/images/mechanics/new-plants/cabbage_seeds.png" alt="Насіння капусти"> | <ul><li>Палац випробувань</li></ul> |
+| Перець чилі | <img class="antialiasing-off img-mehanics-plants-items" src="/public/images/mechanics/new-plants/chilli_pepper.png" alt="Перець чилі"> | <img class="antialiasing-off img-mehanics-plants-items" src="/public/images/mechanics/new-plants/chilli_pepper_seeds.png" alt="Насіння перцю чилі"> | <ul><li>Палац випробувань</li><li>Зруйнований портал</li></ul> |
+| Кукурудза | <img class="antialiasing-off img-mehanics-plants-items" src="/public/images/mechanics/new-plants/corn.png" alt=""> | <img class="antialiasing-off img-mehanics-plants-items" src="/public/images/mechanics/new-plants/corn_seeds.png" alt=""> | <ul><li>Нюхач</li></ul> |
+| Огірок | <img class="antialiasing-off img-mehanics-plants-items" src="/public/images/mechanics/new-plants/cucumber.png" alt=""> | <img class="antialiasing-off img-mehanics-plants-items" src="/public/images/mechanics/new-plants/cucumber_seeds.png" alt=""> | <ul><li>Підозрілий пісок/гравій в океані</li><li>Руїни стежки</li><li>Уламки корабля</li></ul> |
+| Салат | <img class="antialiasing-off img-mehanics-plants-items" src="/public/images/mechanics/new-plants/lettuce.png" alt=""> | <img class="antialiasing-off img-mehanics-plants-items" src="/public/images/mechanics/new-plants/lettuce_seeds.png" alt=""> | <ul><li>Підозрілий пісок/гравій в океані</li><li>Руїни стежки</li></ul> |
+| Цибуля | <img class="antialiasing-off img-mehanics-plants-items" src="/public/images/mechanics/new-plants/onion.png" alt=""> | <img class="antialiasing-off img-mehanics-plants-items" src="/public/images/mechanics/new-plants/onion_seeds.png" alt=""> | <ul><li>Скрарбниця зі спавнером</li><li>Нюхач</li></ul> |
+| Рис | <img class="antialiasing-off img-mehanics-plants-items" src="/public/images/mechanics/new-plants/rice_panicle.png" alt=""> | <img class="antialiasing-off img-mehanics-plants-items" src="/public/images/mechanics/new-plants/rice.png" alt=""> | <ul><li>Нюхач</li></ul> |
+<!-- Для копіювання 
+||||||
+<img src="/public/images/mechanics/new-plants/" alt="" height="32" width="32">
+-->
+### Насіння
 
-Насіння та деякі з цих овочей ви можете знайти у скринях, горщиках і підозрілому гравії різноманітних структур.
-Овочі можна перекрафчувати в насіння
+Кожен з овочів можна перекрафтити в 3 насінини
 
-Також було додано ящики з овочами які можна використовувати як для зберігання так і для декору
+### На грядці
+
+Зазвичай садити потрібно на звичайній грядці, проте є вийнятки, а саме:
+
+- **Рис** - росте в воді. Для того щоб посадити його, зробіть грядку мотикою і поставте зверху блок води.
+
+### Ящики
+
+Ящики - це зручний спосіб зберігати велику кількість овочів, або їх можна використати для декорацій. Ящик крафтиться з 9 овочей одного типу.
 
 ## Ягоди
 
-> Увага! Вони колять у ***СРАКУ***!!
+|Назва|Предмет|Кущ|Де знайти|
+|--|:--:|--|--|
+|Смородина|<img class="antialiasing-off img-mehanics-plants-items" src="/public/images/mechanics/new-plants/blackcurrants.png" alt="Смородина">|<img class="antialiasing-off img-mehanics-plants-items" src="/public/images/mechanics/new-plants/blackcurrants_bush_stage3.png" alt="Кущ смородини">|<ul><li>Ліс</li><li>Квітковий ліс</li><li>Темний ліс</li></ul>|
+|Аґрус|<img class="antialiasing-off img-mehanics-plants-items" src="/public/images/mechanics/new-plants/gooseberry.png" alt="Аґрус">|<img class="antialiasing-off img-mehanics-plants-items" src="/public/images/mechanics/new-plants/gooseberry_bush_stage3.png" alt="Кущ аґрусу">|<ul><li>Березовий ліс</li><li>Одвічний березовий ліс</li></ul>|
 
-<ins>Обидва кущі в незрілому варіанті виглядають однаково, тримайте це в голові.</ins>
+Всі види ягід аналогічні ванільним **солодким ягодам**.
 
-- **Аґрус**. Його можна знайти в бєрьозовому лісі. Ось так виглядає дозрілий варіант.
-<!--фото-->
-
-- **Смородина**. Вона росте в звичайному лісі, той що з дубом<!--виправіть якщо не правий-->, і у темному лісі. Дозрілий варіант:
-<!--фото-->
 ## Дерева
 
->Нові дерева, нові плоди, нова деревина  
+<!--<img src="/public/images/mechanics/new-plants/" alt=""></img>-->
+|Назва|Предмет|Паросток|Де знайти|
+|--|--|--|--|
+|Авокадо|<img class="antialiasing-off img-mehanics-plants-items" src="/public/images/mechanics/new-plants/avocado.png" alt="Авокадо">|<img class="antialiasing-off img-mehanics-plants-items" src="/public/images/mechanics/new-plants/avocado_sapling.png" alt="Паросток авокадо">|<ul><li>Рідкі джунглі</li></ul>|
+|Лимон|<img class="antialiasing-off img-mehanics-plants-items" src="/public/images/mechanics/new-plants/lemon.png" alt="Лимон">|<img class="antialiasing-off img-mehanics-plants-items" src="/public/images/mechanics/new-plants/lemon_sapling.png" alt="Паросток лимону">|<ul><li>Мандрівний жид</li><li>Палац випробувань</li></ul>|
 
-Коли дерево виростає, в нього з'являється квітуче листя - це і є нові плоди
+Коли дерево виростає, в нього з'являється квітуче листя - з нього падають нові плоди.
 
-**Лимон** - штучно культивована рослина що не росте у дикій природі. Саджанці лимону можна знайти у горщиках або придбати у мандрівного жида
-<!--Дерево лимону.жпег-->
-**Авокадо**. Росте в біомі рідких джунглів.
-<!--Дерево авокадо.жпег-->
+### Деревина та дошки
 
-Сама деревина і вироби з неї виглядють ось так:
-<!--Фото-->  
-> Нові рослини використовуються для приготування нової їжі <!--та в броварництві(???)--> про які ви можете прочитати у відповідних гайдах
+#### Авокадо:
+
+<div class="div-flex"><img class="img-mehanics-plants-block" src="/public/images/mechanics/new-plants/avocado_log.png" alt="">
+<img class="img-mehanics-plants-block" src="/public/images/mechanics/new-plants/stripped_avocado_log.png" alt="">
+<img class="img-mehanics-plants-block" src="/public/images/mechanics/new-plants/avocado_planks.png" alt=""></div>
+
+#### Лимон:
+<div class="div-flex"><img class="img-mehanics-plants-block" src="/public/images/mechanics/new-plants/lemon_log.png" alt="">
+<img class="img-mehanics-plants-block" src="/public/images/mechanics/new-plants/stripped_lemon_log.png" alt="">
+<img class="img-mehanics-plants-block" src="/public/images/mechanics/new-plants/lemon_planks.png" alt=""></div>

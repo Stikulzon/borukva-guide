@@ -137,6 +137,8 @@
     --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
 
+/* Guide */
+
 .antialiasing-off { 
     image-rendering: optimizeSpeed;             /* STOP SMOOTHING, GIVE ME SPEED  */
     image-rendering: -moz-crisp-edges;          /* Firefox                        */
@@ -149,6 +151,22 @@
 .div-flex{
     display: flex;
 }
+
+/* Get started */
+
+.img-economics-currency{
+    overflow: visible;
+    float: inline-end;
+    display: flex;
+    width: 41px;
+}
+.img-economics-shopchests{
+    border: 6px solid #202025;
+    width: 384px;
+}
+
+/* Mechanics */
+
 .img-mehanics-plants-block{
     padding: 5px;
     width: 80px;

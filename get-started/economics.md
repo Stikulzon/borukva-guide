@@ -16,11 +16,11 @@ next:
 На сервері існує стандарт валюти у вигляді **НЗ** — необробленого золота. Вважається що це синонім слова 'гроші'.
 
 Абревіатури для зручності підрахунку кількості **НЗ**:
-* <img style="overflow: auto; float: right; display: flex" src="/images/get-started/economics/nz.avif" width="43"></img> НЗ — необроблене золото;
+* <img src="/images/get-started/economics/nz.avif" class="img-economics-currency"></img> НЗ — необроблене золото;
 
-* <img style="overflow: auto; float: right; display: flex" src="/images/get-started/economics/bnz.avif" width="43"></img> БНЗ — блок необробленого золота;
+* <img src="/images/get-started/economics/bnz.avif" class="img-economics-currency"></img> БНЗ — блок необробленого золота;
 
-* <img style="overflow: auto; float: right; display: flex" src="/images/get-started/economics/sbnz.avif" width="43"></img> СБНЗ — стак блоків необробленого золота;
+* <img src="/images/get-started/economics/sbnz.avif" class="img-economics-currency"></img> СБНЗ — стак блоків необробленого золота;
 
 ## Валюта країн
 В кожній країні гравці можуть встановлювати свою валюту, із створенням подальшого курса обміну на **НЗ**.
@@ -44,12 +44,12 @@ next:
 
 1. Ви прийшли до магазина **'Все по 5 НЗ'** і побачили перед собою скриню:
 
-<center><img style="border: 6px solid #202025;" src="/images/get-started/economics/skrinya1.avif" width="384"></img></center>
+<center><img src="/images/get-started/economics/skrinya1.avif" class="img-economics-shopchests"></img></center>
 <p style="text-align: center; color: gray; font-style: italic;">Приклад скрині чи діжки де продають товар</p>
 
-2. Беремо предмет собі в інвентар, та на його місце кладемо **необхідну суму**;
+1. Беремо предмет собі в інвентар, та на його місце кладемо **необхідну суму**;
 
-<center><img style="border: 6px solid #202025;" src="/images/get-started/economics/skrinya_full.avif" width="384"></img></center>
+<center><img src="/images/get-started/economics/skrinya_full.avif" class="img-economics-shopchests"></img></center>
 <p style="text-align: center; color: gray; font-style: italic;">Не варто красти, бо 'ledger i' все бачить</p>
 
 Вітаємо! Тепер Ви знаєте базові аспекти економіки Борукви, і можете спокійно ходити по магазинах!

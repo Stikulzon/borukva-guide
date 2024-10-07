@@ -20,7 +20,7 @@
 ### Іконки
 
 > Гарячі клавіші налаштовуються в налаштуваннях майнкрафту або моду
-> 
+
 | Іконка | Значення |
 | -- | -- |
 | <img src="/images/mechanics/voice-chat/voice-chat-talking.png" alt="talking"></img> | Ви говорите  |

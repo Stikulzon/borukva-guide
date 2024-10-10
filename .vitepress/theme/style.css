@@ -167,6 +167,7 @@
 
 /* Mechanics */
 
+/* Plants */
 .img-mehanics-plants-block{
     padding: 5px;
     width: 80px;
@@ -174,4 +175,10 @@
 .img-mehanics-plants-items{
     width: 32px;
     height: 32px;
+}
+
+/* Rails */
+
+.img-mechanics-rails-crafts{
+    width: 450px;
 }

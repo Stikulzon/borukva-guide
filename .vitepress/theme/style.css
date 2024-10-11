@@ -137,6 +137,8 @@
     --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
 
+/* Guide */
+
 .antialiasing-off { 
     image-rendering: optimizeSpeed;             /* STOP SMOOTHING, GIVE ME SPEED  */
     image-rendering: -moz-crisp-edges;          /* Firefox                        */
@@ -149,6 +151,41 @@
 .div-flex{
     display: flex;
 }
+
+/* Get started
+---------------------------------------------
+*/
+
+/* Enocomics */
+.div-get-started-economics-currencies{
+    width: 100%;
+}
+.ul-get-started-economics-currencies-list{
+    width: 95%;
+}
+.li-get-started-economics-currencies-item{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+.img-economics-currency{
+    width: 50px;
+}
+.img-economics-shopchests{
+    border: 6px solid #202025;
+    width: 384px;
+}
+
+
+
+/*
+Mechanics
+---------------------------------------------
+*/
+
+
+/* Plants */
 .img-mehanics-plants-block{
     padding: 5px;
     width: 80px;
@@ -156,4 +193,17 @@
 .img-mehanics-plants-items{
     width: 32px;
     height: 32px;
+}
+
+/* Rails */
+.img-mechanics-rails-crafts{
+    width: 450px;
+}
+
+/*Voice chat*/
+.img-mechanics-voice-chat-gui{
+    width: auto;
+}
+.img-mechanics-voice-chat-icon{
+    width: auto;
 }

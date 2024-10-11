@@ -20,38 +20,38 @@
 ### Іконки
 
 > Гарячі клавіші налаштовуються в налаштуваннях майнкрафту або моду
-> 
+
 | Іконка | Значення |
 | -- | -- |
-| <img src="/images/mechanics/voice-chat/voice-chat-talking.png" alt="talking"></img> | Ви говорите  |
-| <img src="/images/mechanics/voice-chat/voice-chat-whispering.png" alt="whispering"></img> | Ви шепочете |
-| <img src="/images/mechanics/voice-chat/voice-chat-player-talking.png" alt="player-talking"></img> | Гравець говорить |
-| <img src="/images/mechanics/voice-chat/voice-chat-microphone-muted.png" alt="microphone-muted"></img> | Мікрофон вимкнено |
-| <img src="/images/mechanics/voice-chat/voice-chat-disabled.png" alt="disabled"></img> | Голосовий чат вимкнено |
-| <img src="/images/mechanics/voice-chat/voice-chat-not-connected.png" alt="not-connected"></img> | Помилка підключення |
+| <img src="/images/mechanics/voice-chat/voice-chat-talking.png" alt="talking" class="img-mechanics-voice-chat-icon"></img> | Ви говорите  |
+| <img src="/images/mechanics/voice-chat/voice-chat-whispering.png" alt="whispering" class="img-mechanics-voice-chat-icon"></img> | Ви шепочете |
+| <img src="/images/mechanics/voice-chat/voice-chat-player-talking.png" alt="player-talking" class="img-mechanics-voice-chat-icon"></img> | Гравець говорить |
+| <img src="/images/mechanics/voice-chat/voice-chat-microphone-muted.png" alt="microphone-muted" class="img-mechanics-voice-chat-icon"></img> | Мікрофон вимкнено |
+| <img src="/images/mechanics/voice-chat/voice-chat-disabled.png" alt="disabled" class="img-mechanics-voice-chat-icon"></img> | Голосовий чат вимкнено |
+| <img src="/images/mechanics/voice-chat/voice-chat-not-connected.png" alt="not-connected" class="img-mechanics-voice-chat-icon"></img> | Помилка підключення |
 
 ### GUI
 
 <center>
-<img src="/public/images/mechanics/voice-chat/voice-chat-main-gui.png" alt="main-gui"></img>
+<img src="/public/images/mechanics/voice-chat/voice-chat-main-gui.png" alt="main-gui" class="img-mechanics-voice-chat-gui"></img>
 
 Основний інтерфейс
 </center>
 
 <center>
-<img src="/public/images/mechanics/voice-chat/voice-chat-players-volume-gui.png" alt="players-volume"></img>
+<img src="/public/images/mechanics/voice-chat/voice-chat-players-volume-gui.png" alt="players-volume" class="img-mechanics-voice-chat-gui"></img>
 
 Налаштування гучності гравців
 </center>
 
 <center>
-<img src="/public/images/mechanics/voice-chat/voice-chat-settings-gui.png" alt="settings-gui"></img>
+<img src="/public/images/mechanics/voice-chat/voice-chat-settings-gui.png" alt="settings-gui" class="img-mechanics-voice-chat-gui"></img>
 
 Налаштування
 </center>
 
 <center>
-<img src="/public/images/mechanics/voice-chat/voice-chat-group-gui.png" alt="group-gui"></img>
+<img src="/public/images/mechanics/voice-chat/voice-chat-group-gui.png" alt="group-gui" class="img-mechanics-voice-chat-gui"></img>
 
 Інтерфейс групи
 </center>

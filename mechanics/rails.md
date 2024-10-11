@@ -9,29 +9,38 @@
 <center><img src="/public/images/mechanics/rails/rails-speed.png" alt="rail-speed"></img></center>
 
 ## Ключ
-За допомогою ключа можна повертати рейки (*ПКМ по рейці*) або міняти стан нових рейок (*Шифт+ПКМ*)
-<center><img src="/public/images/mechanics/rails/Wrench-craft.png" alt="Wrench-craft"></center>
+Основний інстумент для нових рейок, з його допомогою ключа можна повертати (*ПКМ по рейці*) або змінювати стан нових рейок.
+<center><img src="/public/images/mechanics/rails/Wrench-craft.png" alt="Wrench-craft" class="img-mechanics-rails-crafts"></center>
 
 ## Нові види рейок
 Для зручності побудови залізниць на сервер були додані декілька нових видів рейок.
 
 ### Глухий перетин <!--Junction rail-->
 
-<center><img src="/public/images/mechanics/rails/Junction-rail.png" alt="Junction rail"></center>
+Глухий перетин дозволяє проїжджати в усі 4 сторони. Ключ ніяк не впливає на цю рейку.
+
+<center><img src="/public/images/mechanics/rails/Junction-rail-craft.png" alt="Junction rail" class="img-mechanics-rails-crafts"></center>
 
 ### Поворотний трикутник <!--Wye rail-->
 
-<center><img src="/public/images/mechanics/rails/Wye-rail.png" alt="Wye-rail"></center>
+Поворотний трикутник направляє вагонетку в одну з сторін. Напрямок змінюється ключем (*Шифт + ПКМ*) або при подачі редстоун сигналу.
+
+<center><img src="/public/images/mechanics/rails/Wye-rail-craft.png" alt="Wye-rail" class="img-mechanics-rails-crafts"></center>
 
 ### Стрілочний перевід <!--Turnout rail-->
 
-<center><img src="/public/images/mechanics/rails/Turnout-rail.png" alt="Turnout-rail"></center>
+Стрілочний перевід дозволяє під'єднати додаткову колію до основної. Перемикається ключем (*Шифт + ПКМ*), віддзеркалюється (*ЛКМ*). Також перемикається при подачі редстоун сигналу.
+
+<center><img src="/public/images/mechanics/rails/Turnout-rail-craft.png" alt="Turnout-rail" class="img-mechanics-rails-crafts"></center>
 
 ### Контрольна рейка <!--Control rail-->
 
-Трохи прискорює вагонетку та направляє її тільки в один бік
-<center><img src="/public/images/mechanics/rails/Control-rail.png" alt="Control-rail"></center>
+Трохи прискорює вагонетку та дозволяє їй проїхати тільки в один бік. Редстоун сигнал повертає рейку на 180°.
+
+<center><img src="/public/images/mechanics/rails/Control-rail-craft.png" alt="Control-rail" class="img-mechanics-rails-crafts"></center>
 
 ### Рейка з хвірткою <!--Gate rail-->
 
-<center><img src="/public/images/mechanics/rails/Gate-rail.png" alt="Gate-rail"></center>
+Робить те саме що і контрольна рейка, але зупиняє вагонетку якщо хвіртка закрита. Повертається ключем через (*Шифт + ПКМ*), редстоун сигнал лише відкриває/закриває хвіртку.
+
+<center><img src="/public/images/mechanics/rails/Gate-rail-craft.png" alt="Gate-rail" class="img-mechanics-rails-crafts"></center>

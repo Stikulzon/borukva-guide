@@ -47,6 +47,7 @@ export default defineConfig({
           { text: 'Кастомні крафти', link: '/mechanics/custom-crafts'},
           //{ text: 'Налаштуй сою стійку для броні', link: '/mechanics/armorstand-editor'},
           //{ text: 'Броварництво', link: '/mechanics/brewery'},
+          { text: 'Країни', link: '/mechanics/countries'},
           { text: 'Радіо', link: '/mechanics/radio'},
           { text: 'Рейки', link: '/mechanics/rails'},
           { text: 'Фермерство', link: '/mechanics/farming'},

@@ -16,11 +16,19 @@ next:
 На сервері існує стандарт валюти у вигляді **НЗ** — необробленого золота. Вважається що це синонім слова 'гроші'.
 
 Абревіатури для зручності підрахунку кількості **НЗ**:
-* <img src="/images/get-started/economics/nz.avif" class="img-economics-currency"></img> НЗ — необроблене золото;
-
-* <img src="/images/get-started/economics/bnz.avif" class="img-economics-currency"></img> БНЗ — блок необробленого золота;
-
-* <img src="/images/get-started/economics/sbnz.avif" class="img-economics-currency"></img> СБНЗ — стак блоків необробленого золота;
+<div class="div-get-started-economics-currencies">
+    <ul class="ul-get-started-economics-currencies-list">
+        <li class="li-get-started-economics-currencies-item"> 
+            НЗ — необроблене золото; <img src="/images/get-started/economics/nz.avif" class="img-economics-currency"></img>
+        </li>
+        <li class="li-get-started-economics-currencies-item">
+            БНЗ — блок необробленого золота; <img src="/images/get-started/economics/bnz.avif" class="img-economics-currency"></img>
+        </li>
+        <li class="li-get-started-economics-currencies-item">
+            СБНЗ — стак блоків необробленого золота; <img src="/images/get-started/economics/sbnz.avif" class="img-economics-currency"></img>
+        </li>
+    </ul>
+</div>
 
 ## Валюта країн
 В кожній країні гравці можуть встановлювати свою валюту, із створенням подальшого курса обміну на **НЗ**.

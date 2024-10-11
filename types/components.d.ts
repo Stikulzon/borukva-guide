@@ -12,6 +12,6 @@ declare interface ISectionGroup extends Pick<IChannelItem, 'title'>{
   items: ISectionItem[]
 }
 
-declare interface ISectionItem extends Pick<IChannelItem, 'image'>{
-  name: string
+declare interface ISectionItem extends Pick<IChannelItem, 'image' | 'link'>{
+  name: string;
 }

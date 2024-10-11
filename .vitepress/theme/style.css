@@ -152,20 +152,38 @@
     display: flex;
 }
 
-/* Get started */
+/* Get started
+---------------------------------------------
+*/
 
-.img-economics-currency{
-    overflow: visible;
-    float: inline-end;
+/* Enocomics */
+.div-get-started-economics-currencies{
+    width: 100%;
+}
+.ul-get-started-economics-currencies-list{
+    width: 95%;
+}
+.li-get-started-economics-currencies-item{
     display: flex;
-    width: 41px;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+.img-economics-currency{
+    width: 50px;
 }
 .img-economics-shopchests{
     border: 6px solid #202025;
     width: 384px;
 }
 
-/* Mechanics */
+
+
+/*
+Mechanics
+---------------------------------------------
+*/
+
 
 /* Plants */
 .img-mehanics-plants-block{
@@ -178,7 +196,14 @@
 }
 
 /* Rails */
-
 .img-mechanics-rails-crafts{
     width: 450px;
+}
+
+/*Voice chat*/
+.img-mechanics-voice-chat-gui{
+    width: auto;
+}
+.img-mechanics-voice-chat-icon{
+    width: auto;
 }

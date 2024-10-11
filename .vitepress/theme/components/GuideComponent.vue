@@ -9,14 +9,16 @@ import {sectionList} from "../../data/general";
     <p class="guide-subtitle">Ці статті допоможуть вам ознайомитись з кастомним контентом серверу.</p>
     
     <div v-for="(section, index) in sectionList" :key="index" class="guide-section">
-      <h2 class="guide-section-title">{{ section.title }}</h2>
-      <div class="guide-grid">
-        <div v-for="(item, itemIndex) in section.items" :key="itemIndex" class="guide-item">
-          <img :src="item.image" :alt="item.name">
-          <span>{{ item.name }}</span>
-        </div>
-      </div>
+  <h2 class="guide-section-title">{{ section.title }}</h2>
+  <div class="guide-grid">
+    <div v-for="(item, itemIndex) in section.items" :key="itemIndex" class="guide-item">
+      <a :href="item.link" class="guide-item-link" style="text-decoration: none;">
+        <img :src="item.image" :alt="item.name">
+        <span>{{ item.name }}</span>
+      </a>
     </div>
+  </div>
+</div>
   </div>
 </template>
 

@@ -63,28 +63,28 @@ export const channelsList: IChannelItem[] = [
   },
 ];
 
-export const sectionList : ISectionGroup[] = [
+export const sectionList: ISectionGroup[] = [
   {
     title: 'Додано',
     items: [
-      { name: 'Нові рейки', image: '/borukva-guide/images/guide/placeholder.webp' },
-      { name: 'Артефакти', image: '/borukva-guide/images/guide/placeholder.webp' },
-      { name: 'Радіо', image: '/borukva-guide/images/guide/placeholder.webp' },
-      { name: 'Полотно для малювання', image: '/borukva-guide/images/guide/placeholder.webp' },
-      { name: 'Декілька видів дерев', image: '/borukva-guide/images/guide/placeholder.webp' },
-      { name: 'Меблі', image: '/borukva-guide/images/guide/placeholder.webp' },
-      { name: 'Куховарство', image: '/borukva-guide/images/guide/placeholder.webp' },
+      { name: 'Нові рейки', image: '/borukva-guide/images/guide/placeholder.webp', link: 'rails' },
+      { name: 'Артефакти', image: '/borukva-guide/images/guide/placeholder.webp', link: 'artefacts' },
+      { name: 'Радіо', image: '/borukva-guide/images/guide/placeholder.webp', link: 'radio' },
+      { name: 'Полотно для малювання', image: '/borukva-guide/images/guide/placeholder.webp', link: 'polydecorations/canvas' },
+      { name: 'Декілька видів дерев', image: '/borukva-guide/images/guide/placeholder.webp', link: 'new-plants' },
+      { name: 'Меблі', image: '/borukva-guide/images/guide/placeholder.webp', link: 'polydecorations/furniture' },
+      { name: 'Куховарство', image: '/borukva-guide/images/guide/placeholder.webp', link: 'food' },
     ]
   },
   {
     title: 'Змінено',
     items: [
-      { name: 'Генерацію світу', image: '/borukva-guide/images/guide/placeholder.webp' },
-      { name: 'Фермерство', image: '/borukva-guide/images/guide/placeholder.webp' },
-      { name: 'Вагонетки', image: '/borukva-guide/images/guide/placeholder.webp' },
-      { name: 'Торгівлю з жителями', image: '/borukva-guide/images/guide/placeholder.webp' },
-      { name: 'Риболовлю', image: '/borukva-guide/images/guide/placeholder.webp' },
-      { name: 'І ще багато іншого!', image: '/borukva-guide/images/guide/placeholder.webp' },
+      { name: 'Генерацію світу', image: '/borukva-guide/images/guide/placeholder.webp', link: 'world-gen' },
+      { name: 'Фермерство', image: '/borukva-guide/images/guide/placeholder.webp', link: 'farming' },
+      { name: 'Вагонетки', image: '/borukva-guide/images/guide/placeholder.webp', link: 'rails' },
+      { name: 'Торгівлю з жителями', image: '/borukva-guide/images/guide/placeholder.webp', link: 'villagers' },
+      { name: 'Риболовлю', image: '/borukva-guide/images/guide/placeholder.webp', link: 'fishing' },
+      { name: 'І ще багато іншого!', image: '/borukva-guide/images/guide/placeholder.webp', link: '/guide/more' },
     ]
   }
 ]
